@@ -19,6 +19,6 @@
     "gulp-uglify": "^2.0.0"
   },
   "interactivity": {
-    "detect_on": "window",
+    "detect_on": "canvas",
   }
 }
